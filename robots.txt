@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /cgi-bin
+Sitemap: https://www.thinkblue.tech/sitemap.xml
+Sitemap: https://thinkblue.tech/sitemap.xml
